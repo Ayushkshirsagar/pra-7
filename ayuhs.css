@@ -1,0 +1,14 @@
+body{
+
+
+    text-align:center;
+    background-image: radial-gradient(circle,rgb(16, 15, 15),rgb(239, 24, 24),rgb(27, 230, 27));
+ 
+}
+div{
+font-size:x-large;
+margin: 150px;margin-left:30%;
+border:5px solid rgb(229, 28, 34);width:450px;height:40s0px;
+background-color:rgb(23, 50, 203);
+width:30%;
+}
